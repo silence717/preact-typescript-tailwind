@@ -1,6 +1,5 @@
-# widget
-
-## CLI Commands
+# preact-typescript-tailwind
+preact, typescript, tailwindcss
 
 ``` bash
 # install dependencies
